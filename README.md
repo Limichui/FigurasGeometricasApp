@@ -22,7 +22,7 @@ El objetivo es aplicar conceptos de **programación orientada a objetos** y **Wi
 - En la ventana de la aplicación se contará con tres pequeños formularios:
 	- Uno para ingresar atributos que conformen un triángulo.
 	- Un segundo formulario para rectángulo.
-	- Un tercer formulario para paralelogramo.
+	- Un tercer formulario para eclipse.
 
 	cada pequeño formulario contará con un botón para crear dicho objeto e ingresarlo en una pila de polígonos.
 
