@@ -12,12 +12,12 @@ El objetivo es aplicar conceptos de **programación orientada a objetos** y **Wi
 - Crear la clase **FiguraGeometrica** con el atributo:
 	- `nombre` (string)
 - Crear la interfaz **IPoligono** con el método:
-- Crear la interfaz **IPoligono** con el método:
+  
   ```csharp
   public double Area(double valor1, double valor2);
 
 - Crear la clase (que heredan de **FiguraGeometrica** e implementan **IPoligono**):
-	- **Triangulo, Rectangulo y Elipse** (con sus atributos pertinentes y método **ToString()**que retorne un texto mostrando el nombre y su área calculada)
+	- **Triangulo, Rectangulo y Elipse** (con sus atributos pertinentes y método **ToString()** que retorne un texto mostrando el nombre y su área calculada)
 
 - En la ventana de la aplicación se contará con tres pequeños formularios:
 	- Uno para ingresar atributos que conformen un triángulo.
